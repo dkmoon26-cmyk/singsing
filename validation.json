@@ -1,0 +1,11 @@
+{
+  "version": "0.10.0",
+  "deployment_files": 82,
+  "results": {
+    "activities": "PASS: all album/venue/content types; production approval, settlement, stock, payments, repeated-content diminishing returns; reservation pauses and duplicate offer protection; rollback; save/reload; nine screens and three approval dialogs at five widths",
+    "smoke": "PASS: v0.9.1 save loaded; all 72 portraits; 15 menus; casting/signing/cover; 400-day progression; slots/reload/export/import; gallery; mobile",
+    "development": "PASS: weekly plans/goals/migration/countdown/forecast; persistence; 13 screens at five widths; full portraits",
+    "navigation": "PASS: day/skip/stop and inbox at nine screens and five widths"
+  },
+  "deployment_test_root": "/tmp/next-stage-v0100-release-rfpyos48"
+}
